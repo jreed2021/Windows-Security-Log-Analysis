@@ -27,4 +27,4 @@ This lab provided practival experience with:
 
   ## Author
   Janessa Reed
-  Created as part of a cybersecurity self-study project to build hands-on defensive analysis skills.
+
