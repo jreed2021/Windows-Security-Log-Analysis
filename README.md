@@ -24,3 +24,7 @@ This lab provided practival experience with:
 - Identifying critical security events
 - Using Powershell to filter logs
 - Interpreting forensice log details from Windows environments
+
+  ## Author
+  Janessa Reed
+  Created as part of a cybersecurity self-study project to build hands-on defensive analysis skills.
