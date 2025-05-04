@@ -14,3 +14,13 @@ Analyze Windows Security logs to identify failed login attempts and gain hands-o
 2. Used Powershell to extract and save failed login events:
    ``` powershell
    Get-WinEvent -LogName Security | Where-Object {$_.Id -eq 4625} | Select-Object TimeCreated, Message | Out-File .\FailedLogins.txt
+
+## Key Findings
+- Multiple failed login attempts were recorded.
+- Failure reason: account failed to logon
+
+## Outcome
+This lab provided practival experience with:
+- Identifying critical security events
+- Using Powershell to filter logs
+- Interpreting forensice log details from Windows environments
